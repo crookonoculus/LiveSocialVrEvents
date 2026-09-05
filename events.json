@@ -1,14 +1,15 @@
+
 {
   "now": {
-    "flyer": "",
+    "flyer": "https://raw.githubusercontent.com/crookonoculus/LiveSocialVrEvents/main/now.png",
     "scene": ""
   },
   "today": {
-    "flyer": "",
+    "flyer": "https://raw.githubusercontent.com/crookonoculus/LiveSocialVrEvents/main/today.png",
     "scene": ""
   },
   "thisWeek": {
-    "flyer": "",
+    "flyer": "https://raw.githubusercontent.com/crookonoculus/LiveSocialVrEvents/main/thisweek.png",
     "scene": ""
   }
 }
